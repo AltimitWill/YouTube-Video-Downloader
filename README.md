@@ -6,6 +6,6 @@ The Altimit YouTube Video Downloader
   
  <p> This is the beginning to something beautiful. The youtube video downloader is the best way to download youtube video/audio</p>
  <p> *NOTE: Youtube limits the amount of videos that can be downloaded per day. I strongly recommend you keep your limit to at most 5 per day of both video and audio*</p>
- <h1> Updates coming soon</h1>
+ <h1> Updates Coming Soon</h1>
  <p> Convert Python File to .exe </p>
  <p> Create installer for .exe to properly install the file on a users computer <p>
