@@ -11,3 +11,5 @@ The Altimit YouTube Video Downloader
  <h1> Updates Coming Soon</h1>
  <p> Create a better application installer </p>
  <p> Modify application to add icon for installer <p>
+  
+  DOWNLOAD Installer here https://github.com/AltimitWill/YouTube-Video-Downloader/blob/main/setup.exe
